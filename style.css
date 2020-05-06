@@ -1,0 +1,253 @@
+﻿a.btn {
+    background-color:white;
+    padding:auto !important;
+    font-size:2rem;
+    border-radius: 30%;
+    
+
+}
+.logoimg{
+    position: absolute;
+    top: 1px;
+    bottom:auto;
+    left:27px;
+}
+.btn{
+    color:cornflowerblue !important;
+    
+
+}
+a.nav-link{
+    padding:3px !important;
+    margin: 20px 20px !important;
+}
+header{
+
+    position: relative;
+    top: 10px;
+    bottom: 33px;
+    left: 2px;
+    right: 22px;
+    background-color: white;
+    
+}
+.para{
+    margin:3px 20%;
+}
+.active {
+
+    height:20px;
+    width:20px;
+    padding:3px;
+}
+
+ a.btn:hover{
+    
+  transform:translate(3px,2px);
+  border:2px solid rgb(46, 138, 180) !important;
+  
+}
+
+.soc:hover
+{
+       background-color: cornflowerblue;
+       box-sizing:content-box;
+       color:white;
+        font-size:15px;
+       border-radius: 5% ;
+}
+
+.header-top {
+    background-color: cornflowerblue;
+
+    text-align: center;
+    color: whitesmoke;
+    height:10%;
+    font-size: 15px;
+}
+
+.topbtn {
+    color: rgb(174, 226, 95);
+    border: 1px solid rgb(45, 180, 45);
+    margin: 6px auto;
+    font-size: 15px;
+}
+
+.navbr {
+    margin: 3px 33px;
+    padding:11px;
+    text-align: justify;
+}
+
+ol li {
+    list-style: none;
+    display: inline-block;
+    margin: 1px 3px;
+    padding: 10px; 
+    font-size: 14px;
+    border-radius: 33px 33px 33px 33px;
+   
+    border: 1px ridge skyblue;
+
+}
+
+a.dropdown.item{
+    color:rgb(31, 31, 136) !important;
+}
+.dropdown-menu>li>a {
+    
+    color:rgb(15, 15, 155) !important;
+    font-weight: 400 !important;
+    text-transform: capitalize !important;
+    
+    font-size: 15px !important;
+
+}
+.dropdown-menu>li>a :hover{
+    background-color:blue !important;
+    
+    font-size: 16px !important;
+    transform:translate(3px,2px);}
+
+.dropdown-menu>li>a:hover{
+    background-color:blue !important;
+
+}
+
+li:hover {
+    
+
+    cursor:pointer;
+    background-color:blue;
+}
+.onesec{
+    background-color: blue;
+    padding:23px 12px;
+    
+    width:99%;
+    height:300px;
+    margin: 1px auto;
+    box-sizing: border-box;
+
+  
+    font-size: 16px;
+   
+  
+}
+.onesec img{
+    
+    width:50px; 
+
+}
+tr{
+    text-align: center; 
+    
+    margin:0px;
+    
+
+    
+}
+.aaa{
+    font-size: 45px;
+    font-variant-numeric: proportional-nums !important;
+    font-style: oblique;
+}
+td{
+    margin:2px;
+    padding:5px !important;
+}
+.count{
+  
+    font-weight: 700;
+  color: yellowgreen;
+     
+}
+ tr span{
+  
+    font-weight: 600;
+    font-size: 18px;
+    
+    color:white;
+    
+}
+.midle{
+
+    margin:0px !important;
+    
+    padding:39px !important;
+
+}
+.midle:hover{
+    transform: translate(5px,4px);
+    
+}
+ 
+ol li ul li {
+    background-color: cornflowerblue;
+    
+    padding: 5px;
+    margin: 2px;
+    text-decoration: none;
+    display: block;
+}
+ol li ul li  a{
+   
+    color:whitesmoke;
+    text-decoration: none;
+    display: block;
+}
+.dropdown ul  li {
+
+    
+   border-radius: 3px  4px 5px 3px !important;
+   border-color: transparent !important;
+   padding:4px;
+  
+}
+.dropdown ul  {
+
+
+    border-radius:100% !important;
+    border-color: transparent !important;
+    
+    padding:0px;
+    background: transparent;
+   
+ }
+a.dropdown-item{
+    background-color: blue;
+}
+img.col-lg-3,col-sm-4 {
+    padding-left: 1px !important;
+    padding-right: 2px !important;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+}
+
+ img:hover{
+         transform:translate(5px,4px);
+                 
+      }
+.footer{
+
+    background-color:slategrey;
+    height:20%;
+    margin:50px 3px 1px 2px;
+    
+    color:whitesmoke;
+    text-align:center;
+    padding:50px;
+    font-size:16px;
+}
+.glyphicon {
+
+
+    color:yellow;
+    font-size:16px;
+    
+}
+.fa {
+    color:yellow;
+    font-size: 16px;
+}
